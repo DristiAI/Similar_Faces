@@ -1,4 +1,4 @@
-# Uncrush
+# Similar_Faces
 
 To use :
 1) First run the resize file
